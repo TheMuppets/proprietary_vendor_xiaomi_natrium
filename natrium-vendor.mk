@@ -31,7 +31,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/natrium/proprietary/vendor/firmware/a530_zap.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_zap.b02 \
     vendor/xiaomi/natrium/proprietary/vendor/firmware/a530_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_zap.elf \
     vendor/xiaomi/natrium/proprietary/vendor/firmware/a530_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a530_zap.mdt \
-    vendor/xiaomi/natrium/proprietary/vendor/lib/libpn551_fw.so:$(TARGET_COPY_OUT_VENDOR)/lib/libpn551_fw.so \
+    vendor/xiaomi/natrium/proprietary/vendor/lib64/libpn551_fw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libpn551_fw.so \
     vendor/xiaomi/natrium/proprietary/vendor/lib/libactuator_lc898214xc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_lc898214xc.so \
     vendor/xiaomi/natrium/proprietary/vendor/lib/libactuator_lc898217xc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_lc898217xc.so \
     vendor/xiaomi/natrium/proprietary/vendor/lib/libactuator_lc898217xc_a4_semco.so:$(TARGET_COPY_OUT_VENDOR)/lib/libactuator_lc898217xc_a4_semco.so \
